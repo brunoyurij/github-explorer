@@ -1,1 +1,1 @@
-Estudos React.
+Criaro github explorer para estudar ReactJS.
