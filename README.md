@@ -1,1 +1,1 @@
-Criaro github explorer para estudar ReactJS.
+Created a github explorer to study ReactJS.
